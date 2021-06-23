@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("push test2222");
         System.out.println("push test37,mm7");
         System.out.println("push mmmmmmmmmmmmm7");
+        System.out.println("push 4");
 
     }
 }
